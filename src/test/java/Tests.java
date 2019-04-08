@@ -1,5 +1,8 @@
+import org.apache.commons.*;
+
 public class Tests {
 
+<<<<<<< HEAD
     public static void main (String [] args){
 
         HashMap<String, String> objMap = new HashMap<String, String>();
@@ -14,4 +17,7 @@ public class Tests {
     }
 }
 
+=======
+>>>>>>> 6bc18131b820b9df7b869b8529083ff1d75c8ffd
 }
+
